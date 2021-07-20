@@ -2,13 +2,15 @@
 Request-Audits
 HOW TO REQUEST AUDIT
 + Create Forder request audit:
-+ Ford this Repositories
-+ Uploa
++ Fork this Repositories
++ Upload forder info:
 + Creat a pull request to submit Audit
 + Upda
 
 # Forder Request audit:
 + Examble: 
++ Name forder: ID
+examble: "id": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5", --> name forder: 0xa6fd7b5c9eee30309b00b65436a284e2053251e5
 + File Logo.png
 + Info .JSON file:
 + 
