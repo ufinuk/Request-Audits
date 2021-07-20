@@ -5,7 +5,8 @@ HOW TO REQUEST AUDIT
 + Fork this Repositories
 + Upload forder info:
 + Creat a pull request to submit Audit
-+ Upda
++ Pay fee Audit.
++ Waiting update report:
 
 # Forder Request audit:
 + Examble: 
@@ -47,4 +48,9 @@ HOW TO REQUEST AUDIT
     ]
 }
 ```
-* Thank you
+# PAYMENT INFO
++ Send payment by crypto:
++ BEP20: USDT/BUSD/BNB/HORA
++ ERC20: USDT/BUSD/ ETH
++ TRC20: USDT
+
